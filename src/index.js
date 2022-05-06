@@ -20,4 +20,4 @@ export function calculation(transactions, customer, month = null) {
   });
   return points;
 }
-console.log(calculation(transactions, 1));
+// cmonsole.log(calculation(transactions, 1));
